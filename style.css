@@ -56,3 +56,18 @@ button {
     font-weight: bold;
     text-align: center;
 }
+.aprovado {
+    color: green;
+}
+
+.reprovado {
+    color: red;
+}
+
+.error {
+    color: rgb(118, 27, 27);
+}
+
+.recuperacao {
+    color: rgb(255, 165, 0);
+}
